@@ -2,6 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Source Code Pro" />
     <option name="FONT_SCALE" value="0.8333333" />
+    <option name="LINE_SPACING" value="0.9" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
