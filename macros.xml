@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Arg to the right">
+      <action id="MoveElementRight" />
+    </macro>
+  </component>
+</application>
