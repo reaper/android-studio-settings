@@ -1,12 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="fglprofile" type="PLAIN_TEXT" />
       <mapping pattern="gma-1320-test" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="4gl" type="PLAIN_TEXT" />
       <mapping ext="xcf" type="PLAIN_TEXT" />
       <mapping ext="per" type="PLAIN_TEXT" />
-      <mapping ext="4gl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
